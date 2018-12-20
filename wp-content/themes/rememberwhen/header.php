@@ -69,10 +69,9 @@
 <img src="<?php the_field("banner_image");?>" alt="" /></div>
 <div class="scrollable">
 
-
-<div class="menu-bar"><p>Menu</p></div>
-
 <header>
+
+    <div class="menu-bar"><p>Menu</p></div>
 
     <div class="wrapper">
         <a href="<?php echo home_url();?>/"><img src="<?php echo get_template_directory_uri();?>/images/logosmall.png" alt="logo "width="283" height="103" id="logo-small" /></a>
